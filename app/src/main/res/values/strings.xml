@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Splash</string>
+
+
+    <string-array name="static_data">
+        <item>React.js</item>
+        <item>Express.js</item>
+        <item>Next.js</item>
+        <item>Nuxt.js</item>
+        <item>Bun.js</item>
+    </string-array>
+</resources>
